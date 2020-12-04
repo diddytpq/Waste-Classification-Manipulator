@@ -7,3 +7,10 @@
  - darknet 106
  - 페트병과 캔에 대한 이미지 사진 약 9000장 학습
 <p align="center"><img width="947" alt="3" src="https://user-images.githubusercontent.com/67572161/101118205-f6f9ed00-362b-11eb-8ee9-722d0669825a.png"></p>
+
+
+## 학습 결과
+
+
+
+## 실제 적용

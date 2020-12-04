@@ -12,4 +12,5 @@
 ## 학습 결과
 <p align="center"><img width="600", height=400 src="https://user-images.githubusercontent.com/67572161/101119339-75f02500-362e-11eb-8d80-873b3e4d0f57.png"></p>
 https://www.youtube.com/embed/pQaDPCSyK_c"
+
 ## 실제 적용

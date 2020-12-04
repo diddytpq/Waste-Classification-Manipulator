@@ -6,5 +6,8 @@
 
  - darknet 106
  - 페트병과 캔에 대한 이미지 사진 약 9000장 학습
-<p align="left"><img src="https://user-images.githubusercontent.com/67572161/101115493-ccf1fc00-3626-11eb-8e85-240e9836f52d.png" width=300, height=300></p>
+<p align="left"><img src="https://user-images.githubusercontent.com/67572161/101115493-ccf1fc00-3626-11eb-8e85-240e9836f52d.png" width=300, height=300></p> 
+<img src="https://user-images.githubusercontent.com/67572161/101115918-7df89680-3627-11eb-986c-226d298cc764.png" width=400, height=250>
 
+
+https://user-images.githubusercontent.com/67572161/101115918-7df89680-3627-11eb-986c-226d298cc764.png
